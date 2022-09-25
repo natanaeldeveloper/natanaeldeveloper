@@ -3,8 +3,8 @@
 <h3>Olá :wave:</h3> 
 
 <p align="left"> 
-  Me chamo Natanael Oliveira, estudo programação há alguns anos e hoje atuo na área de <strong>Deselvolvimento de Softwares</strong>. <br />
-  Você pode conferir no meu <a href="https://natanaeldeveloper.github.io">portfólio</a> alguns dos projetos OpenSource que já desenvolvi.
+  Me chamo Natanael Oliveira, estudo programação há alguns anos e hoje atuo na área de <strong>Deselvolvimento de Softwares</strong>.
+  Em meu <a href="https://natanaeldeveloper.github.io">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
 </p>
 
 <p align="left">
