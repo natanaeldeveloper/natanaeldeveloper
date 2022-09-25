@@ -1,30 +1,30 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### 💻 I'm Programming Student
+<h3>Olá :wave:</h3> 
 
-[![card](https://github-readme-stats.vercel.app/api?username=natanaeldeveloper&theme=radical&show_icons=true)](https://github.com/natanaeldeveloper/)
+<p align="left"> 
+  Me chamo Natanael Oliveira, estudo programação há alguns anos e hoje atuo na área como <strong>Deselvolvedor de Softwares</strong>.
+</p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=natanaeldeveloper&hide=html&layout=compact&theme=radical)](https://github.com/natanaeldeveloper/)
+<p align="left">
+  🦄 Principais Tecnologias: <strong>Laravel, JS/TS, CSS, HTML, Java, SQL, GIT</strong>
+</p>
 
-### Redes Sociais
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Draw.io, Notion, Trello, Gitlab, Drive</strong>
+</p>
 
-<a href="https://www.linkedin.com/in/natanael-oliveira-martins/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-<a href="https://gitlab.com/natanaeldeveloper">
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://criarmeulink.com.br/u/1664080578" /></a>
 
-### Tecnologias
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-oliveira-martins/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/neitan._/"/></a>
+</p>  
