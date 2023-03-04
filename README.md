@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Principais Tecnologias: <strong>Laravel, JS/TS, CSS, HTML, Java, SQL, GIT</strong>
+  🦄 Principais Tecnologias: <strong>Laravel, Java, React, JS/TS, CSS, HTML, SQL, GIT</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Draw.io, Notion, Trello, Gitlab, Drive</strong>
+  💼 Ferramentas: <strong>VS Code, Draw.io, Notion, Jira, Gitlab, Drive</strong>
 </p>
 
 <p align="left">
