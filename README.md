@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Me chamo Natanael Oliveira, estudo programação há alguns anos e hoje atuo na área de <strong>Deselvolvimento de Softwares</strong>.
-  Em meu <a href="https://natanaeldeveloper.vercel.app/">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
+  Em meu <a target="_blank" href="https://natanaeldeveloper.vercel.app/">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
 </p>
 
 <p align="left">
