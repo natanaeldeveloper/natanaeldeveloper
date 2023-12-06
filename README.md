@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Draw.io, Notion, Jira, Gitlab, Drive</strong>
+  💼 Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, Gitlab, Bitbucket</strong>
 </p>
 
 <p align="left">
