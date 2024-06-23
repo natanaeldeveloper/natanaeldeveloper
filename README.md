@@ -7,13 +7,9 @@
   Em meu <a target="_blank" href="https://natanaeldeveloper.vercel.app/">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
 </p>
 
-<p align="left">
-  🦄 Principais Tecnologias: <strong>Laravel, Java, React, JS/TS, CSS, HTML, SQL, GIT</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, Gitlab, Bitbucket</strong>
-</p>
+- 🦄 Principais Tecnologias: <strong>Laravel, Vue, React, Nest, JS/TS, SQL e GIT.</strong>
+- 💼 Principais Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, Gitlab e Bitbucket.</strong>
+- Também possuo conhecimento prático em: <strong>Rest Full APIs, CI/CD, SOLID e Git Flow.</strong>
 
 <p align="left">
   💌 Você pode entrar em contato comigo por meio das seguintes plataformas: ⤵️
