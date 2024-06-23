@@ -9,7 +9,7 @@
 
 - 🦄 Principais Tecnologias: <strong>Laravel, Vue, React, Nest, JS/TS, SQL e GIT.</strong>
 - 💼 Principais Ferramentas: <strong>VS Code, Draw.io, Figma, Notion, Jira, Gitlab e Bitbucket.</strong>
-- 🚀 Também possuo conhecimento prático em: <strong>Rest Full APIs, CI/CD, SOLID e Git Flow.</strong>
+- 🚀 Também possuo conhecimentos práticos com: <strong>Rest Full APIs, CI/CD, SOLID e Git Flow.</strong>
 
 <p align="left">
   💌 Você pode entrar em contato comigo por meio das seguintes plataformas: ⤵️
