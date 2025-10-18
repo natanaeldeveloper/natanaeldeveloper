@@ -3,7 +3,7 @@
 <h3>Olá :wave:</h3> 
 
 <p align="left"> 
-  Me chamo Natanael Oliveira, auto no mercado a mais de 3 anos com programação, somando no total 6 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
+  Me chamo Natanael Oliveira, auto no mercado a mais de 4 anos com programação, somando no total 7 anos de estudos na área de <strong>Deselvolvimento de Softwares</strong>.
   Em meu <a target="_blank" href="https://natanaeldeveloper.vercel.app/">portfólio</a> apresento alguns dos projetos OpenSource que já desenvolvi.
 </p>
 
