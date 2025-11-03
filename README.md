@@ -33,3 +33,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaeldeveloper&langs_count=3&hide_title=true&hide_border=true" />
 </a>
+
+<img src="https://github.com/Sn0wye/Sn0wye/blob/main/img/Japan.gif">
