@@ -8,10 +8,14 @@ e sigo.
 Há mais de 5 anos construindo sistemas. Atualmente também construindo o
 [Lynkora](https://lynkora.dev), do zero.
 
+Venho também aplicando IA em produção: construí um agente que identifica
+destinatários de documentos em lote via OCR e contexto — processa 64
+páginas em 12 segundos.
+
 Gosto de ensinar o que aprendo pelo caminho.
 
 **Stack que uso no dia a dia:** Vue, React, Laravel, Nest, TypeScript, SQL
 **Como trabalho:** DDD, TDD, CI/CD, SOLID, Git Flow
 
 📍 Brasil (CE)
-📫 natanael.enterprise@gmail.com · [LinkedIn](https://www.linkedin.com/in/natanael-oliveira-martins/)
+📫 neitan.enterprise@gmail.com · [LinkedIn](https://www.linkedin.com/in/natanael-oliveira-martins/)
